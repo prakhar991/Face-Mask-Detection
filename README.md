@@ -12,7 +12,24 @@ This system can therefore be used in real-time applications which require face-m
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Video](https://user-images.githubusercontent.com/56834728/162494487-ed0903ce-fe13-47e9-9f3e-a059294d36d4.gif)
 
+## :warning: TechStack used
+
+- [OpenCV](https://opencv.org/)
+- [Keras](https://keras.io/)
+- [TensorFlow](https://www.tensorflow.org/)
 
 
+## :file_folder: Dataset
+The dataset used can be downloaded here - [Click to Download](https://drive.google.com/drive/folders/1PcMGGT3Id6lcjUquPTrCfMdu2puwciwV)
 
+This dataset consists of __3955 images__ belonging to two classes:
+*	__with_mask: 2037 images__
+*	__without_mask: 1918 images__
+
+The images used were real images of faces wearing and not wearning masks.
+
+
+## :key: Results
+
+#### Our model gave 98% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.5.0</code>
                            
