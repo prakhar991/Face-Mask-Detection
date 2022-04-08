@@ -31,9 +31,24 @@ The images used were real images of faces wearing and not wearning masks.
 
 ## :key: Results
 
-#### Our model gave 98% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.5.0</code>
+#### Our model gave 98.73% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.5.0</code>
 
 
-![No Mask](https://user-images.githubusercontent.com/56834728/162502356-7495731f-f5b4-4060-aa6c-9dcaf7f22d89.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![No Mask](https://user-images.githubusercontent.com/56834728/162502356-7495731f-f5b4-4060-aa6c-9dcaf7f22d89.png) 
+
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Mask on](https://user-images.githubusercontent.com/56834728/162502471-0e16fd9c-b5e2-4b66-b1d9-9fbf60fb5077.png)
+
+
+## :eyes: Note
+
+- Save all the files in the same folder.
+- Save Both the Datasets in the same folder(I named the folder name as Data)
+- Install all the modules beforehand (tensorflow, keras, imutils, numpy, opencv-python, matplotlib, etc.)
+- Change the path directory as per your system.
+
+PS: Do not forgot to star the repository if you found it useful ⭐😉
+
 
                            
