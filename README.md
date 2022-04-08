@@ -32,4 +32,8 @@ The images used were real images of faces wearing and not wearning masks.
 ## :key: Results
 
 #### Our model gave 98% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.5.0</code>
+
+
+![No Mask](https://user-images.githubusercontent.com/56834728/162502356-7495731f-f5b4-4060-aa6c-9dcaf7f22d89.png)
+
                            
